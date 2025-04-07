@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Oussama from Tunisia<br><br>- 📚 I'm stundent computer science</p>
+<p align="left">I'm Oussama from Tunisia<br><br>- 📚 I'm Passionate Computer Science Student | Linux Enthusiast | Frontend & Backend Developer | Python & C Programmer</p>
 
 ###
 
@@ -54,4 +54,4 @@
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
 </div>
 
-
+###
